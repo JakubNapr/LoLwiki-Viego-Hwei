@@ -1,0 +1,45 @@
+body.bg-hwei {
+    background-color: #1c1b2e; 
+    color: #e5e5e5;
+}
+
+.bg-hwei-accent {
+    background-color: #6a3ea1; 
+}
+
+.border-hwei-accent {
+    border-color: #f8c146 !important;
+}
+
+.text-hwei-highlight {
+    color: #f8c146; 
+}
+
+.text-black {
+    color: #000000; 
+}
+
+.btn-outline-hwei {
+    border-color: #f8c146;
+    color: #f8c146;
+}
+
+h2, h3 {
+    color: #f8c146; 
+    font-family: 'Cinzel', serif;
+}
+
+.btn-outline-hwei:hover {
+    background-color: #f8c146;
+    color: #1c1b2e;
+}
+
+.header-gradient-hwei {
+    background: linear-gradient(to right, #6a3ea1, #f8c146, #3b5f84);
+    color: white;
+}
+.btn-outline-primary {
+    border-color: #f8c146;
+    color: #f8c146;
+    transition: background-color 0.3s, color 0.3s;
+}
